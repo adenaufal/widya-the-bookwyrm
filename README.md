@@ -7,25 +7,26 @@ experience in its own journal.
 
 <!-- PET-STATUS:START -->
 ```text
-     __  __
-    (o \/ o)
-     \ ^^ /~~~,
-      \__/____/
-      /|  |\
+      _____
+     / o o \  ___
+    |   ^   |[Bk]
+     \ \_/ / |__|
+    ~~|===|~~
+      /   \
 ```
 
-### 🐛 Widya the Bookwyrm — Wyrmling, Lv.8
+### 📚 Widya the Bookwyrm — Scholar Wyrm, Lv.9
 
-**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 8 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 42
+**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 8 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 44
 
 | Stat | Level |
 |------|-------|
 | 🍖 Hunger | `██████████` 100/100 |
 | 💖 Happiness | `██████████` 100/100 |
 | ⚡ Energy | `██████████` 100/100 |
-| 🧠 Knowledge | 386 XP — 14 XP until **Scholar Wyrm** 📚 |
+| 🧠 Knowledge | 406 XP — 494 XP until **Sage Wyrm** 🧙 |
 
-*Last cared for: Friday, August 14, 2026 at 10:26 WIB*
+*Last cared for: Friday, August 14, 2026 at 15:42 WIB*
 <!-- PET-STATUS:END -->
 
 ## 🎮 How it works
