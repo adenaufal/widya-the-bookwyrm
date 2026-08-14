@@ -16,16 +16,16 @@ experience in its own journal.
 
 ### 🐛 Widya the Bookwyrm — Wyrmling, Lv.8
 
-**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 7 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 40
+**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 8 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 42
 
 | Stat | Level |
 |------|-------|
 | 🍖 Hunger | `██████████` 100/100 |
 | 💖 Happiness | `██████████` 100/100 |
 | ⚡ Energy | `██████████` 100/100 |
-| 🧠 Knowledge | 362 XP — 38 XP until **Scholar Wyrm** 📚 |
+| 🧠 Knowledge | 386 XP — 14 XP until **Scholar Wyrm** 📚 |
 
-*Last cared for: Thursday, August 13, 2026 at 22:16 WIB*
+*Last cared for: Friday, August 14, 2026 at 10:26 WIB*
 <!-- PET-STATUS:END -->
 
 ## 🎮 How it works
