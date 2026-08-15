@@ -17,16 +17,16 @@ experience in its own journal.
 
 ### 📚 Widya the Bookwyrm — Scholar Wyrm, Lv.9
 
-**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 8 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 46
+**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 9 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 48
 
 | Stat | Level |
 |------|-------|
 | 🍖 Hunger | `██████████` 100/100 |
 | 💖 Happiness | `██████████` 100/100 |
 | ⚡ Energy | `██████████` 100/100 |
-| 🧠 Knowledge | 430 XP — 470 XP until **Sage Wyrm** 🧙 |
+| 🧠 Knowledge | 449 XP — 451 XP until **Sage Wyrm** 🧙 |
 
-*Last cared for: Friday, August 14, 2026 at 22:07 WIB*
+*Last cared for: Saturday, August 15, 2026 at 09:15 WIB*
 <!-- PET-STATUS:END -->
 
 ## 🎮 How it works
