@@ -15,18 +15,18 @@ experience in its own journal.
       _/   \_
 ```
 
-### 🧙 Widya the Bookwyrm — Sage Wyrm, Lv.29
+### 🧙 Widya the Bookwyrm — Sage Wyrm, Lv.30
 
-**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 24 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 140
+**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 25 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 142
 
 | Stat | Level |
 |------|-------|
 | 🍖 Hunger | `██████████` 100/100 |
 | 💖 Happiness | `██████████` 100/100 |
 | ⚡ Energy | `██████████` 100/100 |
-| 🧠 Knowledge | 1441 XP — 359 XP until **Oracle Wyrm** 🐉 |
+| 🧠 Knowledge | 1463 XP — 337 XP until **Oracle Wyrm** 🐉 |
 
-*Last cared for: Sunday, August 30, 2026 at 20:05 WIB*
+*Last cared for: Monday, August 31, 2026 at 01:04 WIB*
 <!-- PET-STATUS:END -->
 
 ## 🎮 How it works
