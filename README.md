@@ -7,26 +7,26 @@ experience in its own journal.
 
 <!-- PET-STATUS:START -->
 ```text
-       /\
-      /--\____
-     ( o_o    \~~*
-      \ ~~ ____/
-     ~~|===|~~
-      _/   \_
+        /\___/\
+       ( o . o )___
+       /|  ~  |   \\~~~*
+      ( |_____|___/
+     ~~~|=====|~~~
+       _/     \_
 ```
 
-### 🧙 Widya the Bookwyrm — Sage Wyrm, Lv.36
+### 🐉 Widya the Bookwyrm — Oracle Wyrm, Lv.37
 
-**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 30 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 174
+**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 30 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 176
 
 | Stat | Level |
 |------|-------|
 | 🍖 Hunger | `██████████` 100/100 |
 | 💖 Happiness | `██████████` 100/100 |
 | ⚡ Energy | `██████████` 100/100 |
-| 🧠 Knowledge | 1794 XP — 6 XP until **Oracle Wyrm** 🐉 |
+| 🧠 Knowledge | 1815 XP — Final form reached — Widya knows all. 🌌 |
 
-*Last cared for: Saturday, September 5, 2026 at 12:31 WIB*
+*Last cared for: Saturday, September 5, 2026 at 18:20 WIB*
 <!-- PET-STATUS:END -->
 
 ## 🎮 How it works
