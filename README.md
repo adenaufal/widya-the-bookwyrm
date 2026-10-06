@@ -15,18 +15,18 @@ experience in its own journal.
        _/     \_
 ```
 
-### 🐉 Widya the Bookwyrm — Oracle Wyrm, Lv.75
+### 🐉 Widya the Bookwyrm — Oracle Wyrm, Lv.76
 
-**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 61 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 358
+**Mood:** 🤩 Thriving &nbsp;·&nbsp; **Streak:** 🔥 61 day(s) &nbsp;·&nbsp; **Facts eaten:** 🍽️ 360
 
 | Stat | Level |
 |------|-------|
 | 🍖 Hunger | `██████████` 100/100 |
 | 💖 Happiness | `██████████` 100/100 |
 | ⚡ Energy | `██████████` 100/100 |
-| 🧠 Knowledge | 3741 XP — Final form reached — Widya knows all. 🌌 |
+| 🧠 Knowledge | 3764 XP — Final form reached — Widya knows all. 🌌 |
 
-*Last cared for: Tuesday, October 6, 2026 at 04:29 WIB*
+*Last cared for: Tuesday, October 6, 2026 at 14:25 WIB*
 <!-- PET-STATUS:END -->
 
 ## 🎮 How it works
