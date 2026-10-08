@@ -2,13 +2,13 @@
   "name": "Widya",
   "species": "Bookwyrm",
   "born": "2026-08-07",
-  "knowledge": 3906,
+  "knowledge": 3925,
   "hunger": 100,
   "happiness": 100,
   "energy": 100,
-  "streak_days": 63,
-  "last_care_date": "2026-10-08",
-  "total_care_events": 187,
-  "facts_learned": 374,
+  "streak_days": 64,
+  "last_care_date": "2026-10-09",
+  "total_care_events": 188,
+  "facts_learned": 376,
   "inherited_entries": 637
 }
